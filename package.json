@@ -1,0 +1,24 @@
+{
+  "name": "Unit-Test-BrowserSync",
+  "version": "1.0.0",
+  "description": "Live reload your unit test files and browser on every save.",
+  "main": "command line only",
+  "scripts": {
+    "test": "gulp serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "to-be-determined"
+  },
+  "keywords": [
+    "node",
+    "tests",
+    "jasmine"
+  ],
+  "author": "Christopher Fahey",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jasmine": "^2.0.1"
+  }
+}
